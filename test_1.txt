@@ -1,6 +1,1 @@
-first test
-file
-
-merge
-
-push
+first
