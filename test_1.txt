@@ -2,3 +2,5 @@ first test
 file
 
 merge
+
+push
